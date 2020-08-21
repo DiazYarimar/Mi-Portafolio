@@ -1,1 +1,2 @@
-## Preanbulo.
+## Preambulo.
+## Inicio.
