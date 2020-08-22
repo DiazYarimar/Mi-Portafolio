@@ -53,6 +53,10 @@ h5 {
     font-weight: 200; 
 }
 
+.icons-section a {
+    color: #ffffff;
+}
+
 footer {
     background-color: #660066;     
 }
